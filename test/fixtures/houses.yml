@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hse_type: MyString
+  price: 1
+  location: MyString
+  description: MyString
+  status: MyString
+
+two:
+  hse_type: MyString
+  price: 1
+  location: MyString
+  description: MyString
+  status: MyString
